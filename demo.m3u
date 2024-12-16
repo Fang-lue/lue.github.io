@@ -1,3 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="广东频道",潮州综合
+#EXTINF:-1 tvg-name="221" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="广东频道",潮州综合
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="广东频道",潮州综合
+http://113.85.70.109:4022/udp/239.253.43.70:5146
+#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="广东频道",潮州民生
+http://113.85.70.109:4022/udp/239.253.43.75:5146
